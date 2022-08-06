@@ -1,8 +1,9 @@
 {
-  "name": "hyle-theme",
+  "name": "hyle",
   "displayName": "Hyle",
   "publisher": "Kaosc",
   "description": "",
+  "icon": "./assets/icon.png",
   "version": "0.0.2",
   "repository": {"url": "https://github.com/Kaosc/Hyle"},
   "engines": {
