@@ -4,7 +4,7 @@
   "publisher": "Kaosc",
   "description": "",
   "icon": "assets/hyle-icon.png",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {"url": "https://github.com/Kaosc/Hyle"},
   "engines": {
     "vscode": "^1.70.0"
@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kaosc",
+        "label": "Hyle",
         "uiTheme": "vs-dark",
         "path": "./themes/hyle-color-theme.json"
       }
