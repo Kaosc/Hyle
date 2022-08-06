@@ -1,9 +1,10 @@
 {
   "name": "hyle-theme",
-  "displayName": "Hyle Theme",
+  "displayName": "Hyle",
   "publisher": "Kaosc",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {"url": "https://github.com/Kaosc/Hyle"},
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -15,7 +16,7 @@
       {
         "label": "Kaosc",
         "uiTheme": "vs-dark",
-        "path": "./themes/Kaosc-color-theme.json"
+        "path": "./themes/hyle-color-theme.json"
       }
     ]
   }
