@@ -361,7 +361,7 @@
 				"meta.attribute-selector"
 			],
 			"settings": {
-				"foreground": "#9ECE6A",
+				"foreground": "#82ad53",
 				"fontStyle": ""
 			}
 		},
@@ -1004,7 +1004,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#7AA2F7"
+				"foreground": "#8277e2"
 			}
 		},
 		{
@@ -1012,7 +1012,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#0DB9D7"
+				"foreground": "#2bb2ca"
 			}
 		},
 		{
@@ -1020,7 +1020,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#7DCFFF"
+				"foreground": "#5a80e7"
 			}
 		},
 		{
@@ -1028,7 +1028,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#BB9AF7"
+				"foreground": "#9983e7"
 			}
 		},
 		{
