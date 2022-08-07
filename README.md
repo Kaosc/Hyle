@@ -1,10 +1,10 @@
 # Hyle
 
-## Dark Theme For Visual Studio Code
+Dark Theme For Visual Studio Code
 
 
-[Download from VSC Marketplace](https://marketplace.visualstudio.com/items?itemName=Kaosc.hyle)
+[Marketplace Link](https://marketplace.visualstudio.com/items?itemName=Kaosc.hyle)
 
-### Preview
+## Preview
 
-![image description](/assets/preview-1.jpeg)
+![image description](/assets/preview.jpg)
