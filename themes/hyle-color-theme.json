@@ -486,7 +486,8 @@
 			"scope": [
 				"keyword",
 				"keyword.control",
-				"keyword.other.important"
+				"keyword.other.important",
+				"entity.name.type.cs"
 			],
 			"settings": {
 				"foreground": "#8a70d1"
@@ -1320,6 +1321,46 @@
 			"settings": {
 				"foreground": "#7AA2F7"
 			}
-		}
+		},
+
+		// PYTHON
+		{
+			"scope": "meta.attribute.python",
+			"settings": {
+				"foreground": "#b6bbff"
+			}
+		},
+
+		// C#
+		{
+			"scope": "variable.other.object.property.cs",
+			"settings": {
+				"foreground": "#b3a1f5"
+			}
+		},
+
+		{
+			"scope": "entity.name.variable.local.cs",
+			"settings": {
+				"foreground": "#968ffa"
+			}
+		},
+
+		// HTML
+		{
+			"scope": "text.html.derivative",
+			"settings": {
+				"foreground": "#ececec"
+			}
+		},
+
+		// CSS
+		{
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#8b83fa"
+			}
+		},
+
 	]
 }
