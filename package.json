@@ -3,7 +3,7 @@
 	"displayName": "Hyle",
 	"publisher": "Kaosc",
 	"description": "Dark Purple Theme",
-	"icon": "assets/hyle-icon.png",
+	"icon": "assets/icon.png",
 	"version": "0.2.4",
 	"repository": {
 		"url": "https://github.com/Kaosc/Hyle"
