@@ -4,7 +4,7 @@
 	"publisher": "Kaosc",
 	"description": "Dark Purple Theme",
 	"icon": "assets/icon.png",
-	"version": "0.2.5",
+	"version": "0.2.7",
 	"repository": {
 		"url": "https://github.com/Kaosc/Hyle"
 	},
@@ -14,6 +14,10 @@
 	"categories": [
 		"Themes"
 	],
+	"scripts": {
+		"build": "vsce package",
+		"publish": "vsce publish"
+	},
 	"contributes": {
 		"themes": [
 			{
