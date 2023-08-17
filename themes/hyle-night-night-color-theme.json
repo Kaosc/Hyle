@@ -262,11 +262,11 @@
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#070707",
 		"debugExceptionWidget.border": "#272727",
-		"editorBracketHighlight.foreground2": "#95b9e9",
-		"editorBracketHighlight.foreground3": "#70b0e8",
-		"editorBracketHighlight.foreground4": "#756391",
-		"editorBracketHighlight.foreground5": "#918c97",
-		"editorBracketHighlight.foreground6": "#75a7e9",
+		"editorBracketHighlight.foreground2": "#7392fa",
+		"editorBracketHighlight.foreground3": "#3cb3ad",
+		"editorBracketHighlight.foreground4": "#a39dff",
+		"editorBracketHighlight.foreground5": "#c390ec",
+		"editorBracketHighlight.foreground6": "#a591fc",
 
 		"symbolIcon.functionForeground": "#b181d6",
 		"symbolIcon.constructorForeground": "#b181d6",
@@ -814,7 +814,7 @@
 				"keyword.control punctuation.definition.keyword"
 			],
 			"settings": {
-				"foreground": "#896eb8"
+				"foreground": "#392c4e"
 			}
 		},
 		{
