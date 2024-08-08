@@ -370,7 +370,9 @@
 				"string.quoted.double.js",
 				"string.quoted.single.js",
 				"string.quoted.double.jsx",
-				"string.quoted.single.jsx"
+				"string.quoted.single.jsx",
+				"string.quoted.double.tsx",
+				"string.quoted.single.tsx"
 			],
 			"settings": {
 				"foreground": "#646f75"
