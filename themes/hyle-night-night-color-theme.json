@@ -362,6 +362,21 @@
 			}
 		},
 		{
+			"scope": [
+				"string.quoted.double.ts",
+				"string.quoted.single.ts",
+				"string.quoted.double.json",
+				"string.quoted.single.json",
+				"string.quoted.double.js",
+				"string.quoted.single.js",
+				"string.quoted.double.jsx",
+				"string.quoted.single.jsx"
+			],
+			"settings": {
+				"foreground": "#646f75"
+			}
+		},
+		{
 			"scope": ["constant.other.color", "constant.other.color.rgb-value.hex punctuation.definition.constant"],
 			"settings": {
 				"foreground": "#9AA5CE"
@@ -590,7 +605,7 @@
 		{
 			"scope": "meta.objectliteral meta.object.member meta.objectliteral meta.object.member meta.objectliteral meta.object.member meta.object-literal.key",
 			"settings": {
-				"foreground": "#41A6B5"
+				"foreground": "#51b161"
 			}
 		},
 		{
@@ -985,7 +1000,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#4da39f"
+				"foreground": "#4fa09c"
 			}
 		},
 		{

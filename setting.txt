@@ -1,1 +1,3 @@
 Inspect editor tokens and scopes
+
+npm i -g vsce
