@@ -358,24 +358,7 @@
 		{
 			"scope": ["string", "constant.other.symbol", "constant.other.key", "meta.attribute-selector"],
 			"settings": {
-				"foreground": "#73a34c"
-			}
-		},
-		{
-			"scope": [
-				"string.quoted.double.ts",
-				"string.quoted.single.ts",
-				"string.quoted.double.json",
-				"string.quoted.single.json",
-				"string.quoted.double.js",
-				"string.quoted.single.js",
-				"string.quoted.double.jsx",
-				"string.quoted.single.jsx",
-				"string.quoted.double.tsx",
-				"string.quoted.single.tsx"
-			],
-			"settings": {
-				"foreground": "#798a94"
+				"foreground": "#659e4f"
 			}
 		},
 		{
@@ -607,7 +590,7 @@
 		{
 			"scope": "meta.objectliteral meta.object.member meta.objectliteral meta.object.member meta.objectliteral meta.object.member meta.object-literal.key",
 			"settings": {
-				"foreground": "#51b161"
+				"foreground": "#41A6B5"
 			}
 		},
 		{
