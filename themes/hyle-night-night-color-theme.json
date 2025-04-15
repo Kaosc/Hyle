@@ -503,9 +503,9 @@
 			}
 		},
 		{
-			"scope": ["entity.name.tag support.class.component", "meta.tag"],
+			"scope": ["entity.name.tag support.class.component"],
 			"settings": {
-				"foreground": "#D7DBEE"
+				"foreground": "#ce6464"
 			}
 		},
 		{
@@ -1069,7 +1069,7 @@
 			}
 		},
 		{
-			"scope": ["meta.jsx.children", "meta.embedded.block"],
+			"scope": ["meta.jsx.children", "meta.embedded.block", "meta.tag"],
 			"settings": {
 				"foreground": "#d7dbee"
 			}
