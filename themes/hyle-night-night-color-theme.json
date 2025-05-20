@@ -478,6 +478,12 @@
 			}
 		},
 		{
+			"scope": "keyword.other.DML.sql",
+			"settings": {
+				"foreground": "#554b8d"
+			}
+		},
+		{
 			"scope": [
 				"keyword.operator.logical",
 				"keyword.operator.bitwise",
